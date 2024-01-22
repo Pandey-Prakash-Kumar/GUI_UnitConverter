@@ -1,5 +1,9 @@
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Investment inv = new Investment();
+      
+    //    SwingUtilities.invokeLater(Investment Portfolio::new);
     }
+
 }
